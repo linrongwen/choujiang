@@ -1,16 +1,13 @@
 body,div,a{padding:0;margin:0}
 body{
-	width:1280px;
-	height:800px;
 	text-align:center;
 	position:relative;
-	background:url(images/bg_wrapper.jpg) no-repeat;
+	background:url(images/background.jpg) no-repeat;
 	font-family:Arial, Helvetica, sans-serif;
 }
 .wrapper{
-	width:656px;
 	margin:0 auto;
-	padding-top:204px;
+	padding-top:20px;
 }
 .wrapper .btn_scroll{
 	display:block;
